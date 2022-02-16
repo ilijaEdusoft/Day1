@@ -1,2 +1,2 @@
-This is a new file!
+Text has been added to this file and then has been modified.
 
